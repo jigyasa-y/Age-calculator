@@ -3,7 +3,7 @@
     const button=document.querySelector("button");
  
  
-console.log("this is my life");
+
 
 
    button.addEventListener('click',()=>{
