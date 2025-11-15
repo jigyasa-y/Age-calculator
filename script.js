@@ -3,7 +3,7 @@
     const button=document.querySelector("button");
  
  
-
+console.log("Hello")
 
 
    button.addEventListener('click',()=>{
